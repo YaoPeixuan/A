@@ -33,6 +33,9 @@ for i in list_positions:
 print(f2(result))
 #"""
 '''
-now the question is 
+如何用正则表达式提取字符串中特定的格式，比如()？比如括号里面的内容？
+如何做饭。吃什么？怎么做饭好吃？
+我的筷子在哪里？如何洗锅？
+
 '''
 
